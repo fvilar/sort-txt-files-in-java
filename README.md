@@ -1,5 +1,5 @@
 # How to sort txt files in java
-A simple example program of how to sort text files in a very easy way using java.
+A simple example program about how to sort text files in a very easy way using java.
 * compile and run.
 * type the name of the **.txt** file (most be in the same directory).
 * open the file, should be done.
